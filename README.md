@@ -10,9 +10,5 @@ This project implements an Intrusion Detection System (IDS) using supervised mac
 - Dimensionality reduction to improve performance
 - Outputs classified logs and insights for monitoring
 
-## 🧠 Algorithms Used
-- Random Forest
-- K-Nearest Neighbors (KNN)
-
 ## 📊 Dataset
 - CICIDS-2018 Dataset.
